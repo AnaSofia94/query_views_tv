@@ -2,9 +2,6 @@
 __pycache__/
 *.py[cod]
 
-# Local env
-.env*
-
 # PyCharm project files
 .idea
 
