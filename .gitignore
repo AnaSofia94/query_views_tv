@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Local env
+.env*
+
+# PyCharm project files
+.idea
+
+db
+.DS_Store
